@@ -1,0 +1,24 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "",
+        "Name": "hari"
+      }
+    ],
+    "Category": "Utilities",
+    "Description": "Shows a quote from a text file every minute",
+    "EnabledByDefault": true,
+    "Icon": "accessories-text-editor",
+    "Id": "com.hari.minutequote",
+    "License": "MIT",
+    "Name": "Minute Quote",
+    "ServiceTypes": [
+      "Plasma/Applet"
+    ],
+    "Version": "1.0",
+    "Website": ""
+  },
+  "X-Plasma-API": "declarativeappletscript",
+  "X-Plasma-MainScript": "ui/main.qml"
+}
